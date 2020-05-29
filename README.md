@@ -8,3 +8,5 @@ https://github.com/sensepost/gowitness
 https://github.com/1ndianl33t/Gf-Patterns
 
 https://github.com/federicodotta/Java-Deserialization-Scanner
+
+https://github.com/Cillian-Collins/subscraper
