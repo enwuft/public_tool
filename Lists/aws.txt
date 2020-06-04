@@ -1,0 +1,3 @@
+http://2852039166/latest/meta-data/
+http://[::ffff:a9fe:a9fe]/latest/meta-data/
+http://[0:0:0:0:0:ffff:a9fe:a9fe]/latest/meta-data/
