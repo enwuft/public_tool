@@ -11,6 +11,8 @@ https://github.com/federicodotta/Java-Deserialization-Scanner
 
 https://github.com/Cillian-Collins/subscraper
 
+https://github.com/aas-n/spraykatz
+
 assetfinder 
 dnsprobe
 httprobe
