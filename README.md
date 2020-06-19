@@ -13,6 +13,8 @@ https://github.com/Cillian-Collins/subscraper
 
 https://github.com/aas-n/spraykatz
 
+https://github.com/hisxo/gitGraber
+
 assetfinder 
 dnsprobe
 httprobe
