@@ -15,6 +15,8 @@ https://github.com/aas-n/spraykatz
 
 https://github.com/hisxo/gitGraber
 
+https://github.com/defparam/smuggler
+
 assetfinder 
 dnsprobe
 httprobe
