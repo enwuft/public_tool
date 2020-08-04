@@ -19,6 +19,9 @@ https://github.com/defparam/smuggler
 
 https://github.com/B-i-t-K/PwnFox
 
+https://github.com/Droidzzzio/EnumerationList
+
+
 assetfinder 
 dnsprobe
 httprobe
