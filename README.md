@@ -21,6 +21,8 @@ https://github.com/B-i-t-K/PwnFox
 
 https://github.com/Droidzzzio/EnumerationList
 
+https://github.com/KathanP19/JSFScan.sh
+
 
 assetfinder 
 dnsprobe
