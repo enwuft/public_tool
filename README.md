@@ -25,6 +25,8 @@ https://github.com/KathanP19/JSFScan.sh
 
 https://github.com/KathanP19/gaussrf
 
+https://github.com/synacktiv/burp-jq
+
 
 assetfinder 
 dnsprobe
