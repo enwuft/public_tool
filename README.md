@@ -23,6 +23,8 @@ https://github.com/Droidzzzio/EnumerationList
 
 https://github.com/KathanP19/JSFScan.sh
 
+https://github.com/KathanP19/gaussrf
+
 
 assetfinder 
 dnsprobe
