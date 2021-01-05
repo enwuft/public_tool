@@ -27,6 +27,8 @@ https://github.com/KathanP19/gaussrf
 
 https://github.com/synacktiv/burp-jq
 
+https://github.com/s0md3v/ote
+
 
 assetfinder 
 dnsprobe
