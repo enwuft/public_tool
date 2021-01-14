@@ -3,6 +3,8 @@ https://github.com/sdushantha/tmpsms
 
 https://github.com/0ang3el/aem-hacker
 
+https://github.com/xsscx/Commodity-Injection-Signatures
+
 ### htaccess shell
 https://github.com/wireghoul/htshells
 
