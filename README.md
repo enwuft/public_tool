@@ -5,6 +5,12 @@ https://github.com/0ang3el/aem-hacker
 
 https://github.com/xsscx/Commodity-Injection-Signatures
 
+git@github.com:s0md3v/Arjun.git
+
+git@github.com:rbsec/dnscan.git
+
+git@github.com:msrkp/PPScan.git
+
 ### htaccess shell
 https://github.com/wireghoul/htshells
 
