@@ -11,6 +11,10 @@ git@github.com:rbsec/dnscan.git
 
 git@github.com:msrkp/PPScan.git
 
+# Github for sensitive secret
+https://github.com/BishopFox/GitGot
+
+
 ### htaccess shell
 https://github.com/wireghoul/htshells
 
